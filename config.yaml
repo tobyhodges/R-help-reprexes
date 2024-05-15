@@ -11,7 +11,7 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: "RRRRRRR, I’m stuck!"
+title: 'RRRRRRR, I’m stuck!'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: 2024-05-14
@@ -59,7 +59,13 @@ contact: 'kgahm@ucla.edu'
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.Rmd
+- 1-intro-reproducible-examples.md
+- 2-understanding-your-code.md
+- 3-debugging-basics.md
+- 4-minimal-reproducible-data.md
+- 5-minimal-reproducible-code.md
+- 6-asking-your-question.md
+- introduction.md
 
 # Information for Learners
 learners: 
